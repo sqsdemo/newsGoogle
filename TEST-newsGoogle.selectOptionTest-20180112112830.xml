@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="newsGoogle.selectOptionTest-20180112112830" tests="2" time="16.461">
+	<testcase classname="newsGoogle.selectOptionTest" name="test_1selectOptions" time="16.180"/>
+	<testcase classname="newsGoogle.selectOptionTest" name="test_2checkUk" time="0.281"/>
+	<system-out>
+<![CDATA[i am in 
+There exist a frame without image or it contains video image in it.
+in checkUk
+]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
