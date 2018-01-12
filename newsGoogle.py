@@ -11,6 +11,10 @@ import time
  
 
 class selectOptionTest(unittest.TestCase):
+    '''
+    selectOptionTest class will check all the news stories frame have images; if in case the news stories have no images than the test will inform 
+    the non-availaibility of images in the frame of news stories.
+    '''
     
     @classmethod
     def setUpClass(cls):
